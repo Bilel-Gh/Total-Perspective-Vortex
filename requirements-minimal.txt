@@ -1,0 +1,9 @@
+# Requirements minimaux pour Total-Perspective-Vortex
+# Dépendances directes seulement - les dépendances transitives sont gérées automatiquement
+
+mne>=1.9.0
+numpy>=2.1.0
+matplotlib>=3.9.0
+scikit-learn>=1.6.0
+
+# Note: pathlib, pickle, time sont des modules standard Python (pas besoin d'installer)
